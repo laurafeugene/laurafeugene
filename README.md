@@ -33,4 +33,3 @@
 ## 📫 Me contacter : 
 [<img align="left" alt="LauraFrancoisEugene | LinkedIn" width="30px" src="https://www.svgrepo.com/show/473701/linkedin.svg" />](https://www.linkedin.com/in/laura-francoiseugene/)
 [<img align="left" alt="LauraFrancoisEugene | Email" width="30px" src="https://www.svgrepo.com/show/304667/email-envelope.svg"/>](mailto:laurafrancoiseugene@gmail.com)
-
