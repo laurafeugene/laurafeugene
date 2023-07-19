@@ -1,4 +1,4 @@
-### Bonjour ! 👋
+## Bonjour ! 👋
 
 ## Je suis une développeuse Front-End !
 
@@ -29,8 +29,6 @@
  #### Softwares : 
  [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)]((https://www.linkedin.com/in/laura-francoiseugene/))
 
-
-</br>
 
 ## 📫 Me contacter : 
 [<img align="left" alt="LauraFrancoisEugene | LinkedIn" width="30px" src="https://www.svgrepo.com/show/473701/linkedin.svg" />](https://www.linkedin.com/in/laura-francoiseugene/)
