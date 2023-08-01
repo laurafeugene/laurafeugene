@@ -7,8 +7,9 @@
 - 💼 Front-End Developpeur
 - 🔭 Je travaille actuellement sur un site de voyage collaboratif en Javascript / React.
 - 🥅 Goals: approfondir mes compétences sur l'expérience utilisateur & le design d'interface.
-- ⚡ Fun fact: j'ai vécu pendant 3 ans à Toronto.
 - 📱 Ancienne Social Media Manager avec plus de 6 ans d'expériences.
+- ✈️ J'ai vécu pendant 3 ans à Toronto (séjour linguistique, stage pendant mes études & 2 ans d'expérience professionnelle.)
+- ⚡ Fun fact: j'ai déjà fait plus de 30 escapes games sur plateaux (sans compter ceux en salle et en VR !)
 - 📫 Pour me contacter, envoyez-moi [un email](mailto:laurafrancoiseugene@gmail.com).
 
 
